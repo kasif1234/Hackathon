@@ -1,0 +1,9 @@
+streamlit==1.31.0
+pandas==2.1.4
+folium==0.15.1
+streamlit-folium==0.18.0
+groq
+numpy==1.26.3
+audio-recorder-streamlit==0.0.8
+python-dotenv==1.0.1
+openrouteservice
